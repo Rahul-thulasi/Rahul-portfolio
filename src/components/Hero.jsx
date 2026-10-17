@@ -16,7 +16,7 @@ export default function Hero() {
         <div className="hero__content">
           <span className="tag hero__tag">
             <span className="hero__tag-dot" />
-            Available for Internships
+            Available for Entry Level Jobs
           </span>
 
           <h1 className="hero__name">
