@@ -47,7 +47,7 @@ export default function About() {
             <p>
               I'm <strong>Rahul Thulasi</strong> from <strong>Trivandrum, Kerala</strong>,
               currently pursuing my B.Tech in Computer Science and Engineering at{' '}
-              <strong>Government Engineering College Wayanad</strong> (second year). My
+              <strong>Government Engineering College Wayanad</strong> (Fourth year). My
               academic journey has given me a solid foundation in core computer science
               concepts including Data Structures, DBMS, Computer Networks, and
               Object-Oriented Programming.
